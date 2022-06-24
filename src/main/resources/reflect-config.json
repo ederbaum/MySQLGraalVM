@@ -1,0 +1,142 @@
+[
+  {
+    "name": "com.amazonaws.services.lambda.runtime.events.APIGatewayProxyResponseEvent",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent$ProxyRequestContext",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent$RequestIdentity",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.SingleConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.FailoverDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.LoadBalanceDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.ReplicationDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.XDevApiDnsSrvConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.FailoverConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.LoadBalanceConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.conf.url.ReplicationConnectionUrl",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },  {
+  "name": "com.mysql.cj.conf.url.XDevApiConnectionUrl",
+  "allDeclaredFields": true,
+  "allDeclaredMethods": true,
+  "allDeclaredConstructors": true
+},
+  {
+    "name": "com.mysql.cj.log.Jdk14Logger",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.mysql.cj.log.NullLogger",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+        "name": "com.mysql.cj.log.Slf4JLogger",
+        "allDeclaredFields": true,
+        "allDeclaredMethods": true,
+        "allDeclaredConstructors": true
+    },
+  {
+  "name": "com.mysql.cj.log.StandardLogger",
+  "allDeclaredFields": true,
+  "allDeclaredMethods": true,
+  "allDeclaredConstructors": true
+},
+  {
+    "name": "com.mysql.jdbc.Driver",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+
+  {
+    "name":"oracle.jdbc.OracleDriver",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.jdbc.driver.T4CDriverExtension",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name" : "oracle.jdbc.driver.T2CDriverExtension",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.net.ano.Ano",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.net.ano.AuthenticationService",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.net.ano.DataIntegrityService",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.net.ano.EncryptionService",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.net.ano.SupervisorService",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  }
+]

@@ -9,7 +9,7 @@ These are the steps to run the code locally
 ### 1. Change [Main] java class
 Change the mysql connection information:
 ```
-public static final String MYSQL_JDBC_URL = "jdbc:mysql://....";
+public static final String MYSQL_JDBC_URL = "jdbc:mysql://abcd.efghijklm.us-east-1.rds.amazonaws.com:3306/database";
 public static final String MYSQL_USERNAME = ...;
 public static final String MYSQL_PASSWORD = ...;
 ```
